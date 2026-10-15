@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Order-Of-The-White-Lotus">
-  <img src="https://github.com/Order-Of-The-White-Lotus.png" width="190" alt="Order of the White Lotus emblem" />
-</a>
+<img src="https://images.openai.com/static-rsc-4/EtGsE7GsDcIIhvUJnGEpQDhSeXuGXvIwmAmXwAWNzdz7DwvTQzMu_cGP_OASL5rXHxvQgekFh_rLH0k0LnqncKtL2qCF5Uacv_sqS_3ye9zvXmcMgkpu45c-QyGE2_RypQty2PFwNuHRVTI-TSQMRPt2pNs68mMn-EQwhn0Q1ws10z7LyVTgj_2yRO9qfwSW?purpose=fullsize" width="760" alt="Monochrome White Lotus emblem artwork" />
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&height=60&lines=ORDER+OF+THE+WHITE+LOTUS;Different+Paths.+One+Lotus.;Seek+Truth.+Share+Knowledge.+Build." alt="Order of the White Lotus" />
@@ -118,7 +116,7 @@ Bring curiosity. Respect the craft. Share what you learn. Help someone move forw
 
 
 
-<img src="https://github.com/Order-Of-The-White-Lotus.png" width="76" alt="White Lotus emblem" />
+<img src="https://images.openai.com/static-rsc-4/EtGsE7GsDcIIhvUJnGEpQDhSeXuGXvIwmAmXwAWNzdz7DwvTQzMu_cGP_OASL5rXHxvQgekFh_rLH0k0LnqncKtL2qCF5Uacv_sqS_3ye9zvXmcMgkpu45c-QyGE2_RypQty2PFwNuHRVTI-TSQMRPt2pNs68mMn-EQwhn0Q1ws10z7LyVTgj_2yRO9qfwSW?purpose=fullsize" width="120" alt="White Lotus emblem" />
 
 🪷 SEEK TRUTH. SHARE KNOWLEDGE. BUILD TOGETHER.
 ORDER OF THE WHITE LOTUS
